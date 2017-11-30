@@ -9,6 +9,8 @@ memory = {}
 
 form = '''<!DOCTYPE html>
 <title>Bookmark Server</title>
+<p>Add bookmarks to the server!
+<p>NOTE: Bookmarks MUST include http:// or https:// to work!
 <form method="POST">
     <label>Long URI:
         <input name="longuri">
