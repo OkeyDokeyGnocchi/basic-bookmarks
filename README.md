@@ -8,4 +8,4 @@ visitors to add shortened names and store bookmarks on the server.
 
 
 The server is hosted on Heroku, and is volatile - when reset it will lose
-the bookmarks that have been created.
+the bookmarks that have been created.  It can be reached at https://basic-bookmarks.herokuapp.com/
